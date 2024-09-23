@@ -1,6 +1,7 @@
 - 👋 Hi, I’m  Hem 
 - 👀 I’m interested in  Machine Learning and Deep Learning
-- 🌱 I’m currently learning   new technologies.
+- 🌱 I’m currently learning  LLM
+- ✨  I sold my IPO share to learn AI 
 
 
 
